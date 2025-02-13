@@ -43,7 +43,7 @@ Install the required Python packages using the appropriate script for your opera
     ```
 2. Install the Python dependencies:
     ```cmd
-    pip install -r extensions\KokoroTtsTextGenerationWebUI\requirements.txt
+    pip install -r extensions\KokoroTtsTexGenerationWebUI\requirements.txt
     ```
 
 #### Linux
@@ -54,7 +54,7 @@ Install the required Python packages using the appropriate script for your opera
     ```
 2. Install the Python dependencies:
     ```bash
-    pip install -r extensions/KokoroTtsTextGenerationWebUI/requirements.txt
+    pip install -r extensions/KokoroTtsTexGenerationWebUI/requirements.txt
     ```
 
 ## Multiple GPU Support
